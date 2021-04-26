@@ -1,0 +1,16 @@
+{
+	"classes": {},
+	"properties": {
+		"software:distribution": "DCAT:distribution",
+		"software:memory_requirements": "SCHEMA:memoryRequirements",
+		"software:operating_system": "SCHEMA:operatingSystem",
+		"software:processor_requirements": "SCHEMA:processorRequirements",
+		"software:programming_language": "SCHEMA:programmingLanguage",
+		"software:runtime": "SCHEMA:runtimePlatform",
+		"software:storage_requirements": "SCHEMA:storageRequirements",
+		"software:suite": "SCHEMA:applicationSuite",
+		"software:source": "SCHEMA:codeRepository",
+		"software:version": "SCHEMA:softwareVersion"
+	},
+	"alias": {}
+}

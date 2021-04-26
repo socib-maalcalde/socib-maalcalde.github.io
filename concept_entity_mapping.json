@@ -1,0 +1,31 @@
+{
+    "classes": {
+    },
+	"properties": {
+        "concept:alt_label": "SKOS:altLabel",
+        "concept:broader": "SKOS:broader",
+        "concept:change_note": "SKOS:changeNote",
+        "concept:definition": "SKOS:definition",
+        "concept:editorial_note": "SKOS:editorialNote",
+        "concept:example": "SKOS:example",
+        "concept:hidden_label": "SKOS:hiddenLabel",
+        "concept:history_note": "SKOS:historyNote",
+        "concept:in_scheme": "SKOS:inScheme",
+        "concept:member": "SKOS:member",
+        "concept:member_list": "SKOS:memberList",
+        "concept:narrower": "SKOS:narrower",
+        "concept:notation": "SKOS:notation",
+        "concept:note": "SKOS:note",
+        "concept:pref_label": "SKOS:prefLabel",
+        "concept:related": "SKOS:related",
+        "concept:scope_note": "SKOS:scopeNote",
+        
+		"conceptscheme:alt_label": "SKOS:altLabel",
+        "conceptscheme:definition": "SKOS:definition",
+        "conceptscheme:hidden_label": "SKOS:hiddenLabel",
+        "conceptscheme:notation": "SKOS:notation",
+        "conceptscheme:pref_label": "SKOS:prefLabel"
+	},
+	"alias": {
+	}
+}

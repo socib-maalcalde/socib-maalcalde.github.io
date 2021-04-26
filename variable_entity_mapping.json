@@ -1,0 +1,18 @@
+{
+	"classes": {
+	},
+	"properties": {
+		"variable:alternate_name": "SCHEMA:alternateName",
+        "variable:max_value": "SCHEMA:maxValue",
+		"variable:measurement_technique": "SCHEMA:measurentTechnique",
+		"variable:min_value": "SCHEMA:minValue",
+		"variable:name": "SCHEMA:name",
+        "variable:propertyid": "SCHEMA:propertyID",
+        "variable:unit_code": "SCHEMA:unitCode",
+        "variable:unit_text": "SCHEMA:unitText",
+        "variable:value": "SCHEMA:value",
+		"variable:value_reference": "SCHEMA:valueReference"
+	},
+	"alias": {
+	}
+}

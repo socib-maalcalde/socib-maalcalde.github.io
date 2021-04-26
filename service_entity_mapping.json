@@ -1,0 +1,12 @@
+{
+    "classes": {
+    },
+	"properties": {
+        "service:servicetype": "SCHEMA:serviceType",
+        "service:termsofservice": "SCHEMA:termsOfService",
+        "service:software": "DCT:requires",
+        "service:project": "PROV:wasGeneratedBy"
+	},
+	"alias": {
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "classes": {
+    },
+	"properties": {
+		"document:abstract": "EJERICO:abstract",
+		"document:catalog": "EJERICO:catalog",
+		"document:citation": "EJERICO:citation",
+		"document:contributor": "EJERICO:contributor",
+		"document:type": "EJERICO:kind"	
+	},
+	"alias": {
+	}
+}
+
+

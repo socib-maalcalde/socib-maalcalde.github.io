@@ -1,0 +1,18 @@
+{
+	"classes": {
+	},
+	"properties": {
+		"responsible": "PROV:wasAssociatedWith",
+		"spatial:geometry": "LOCN:geometry",
+		"spatial:name": "LOCN:geographicName",
+		"spatial:address": "LOCN:Address",
+		"spatial:max_latitude": "EJERICO:maxLatitude",
+        "spatial:max_longitude": "EJERICO:maxLongitude",
+        "spatial:min_latitude": "EJERICO:minLatitude",
+        "spatial:min_longitude": "EJERICO:maxLongitude",
+        "spatial:unit_latitude": "EJERICO:unitLatitude",
+        "spatial:unit_longitude": "EJERICO:unitLongitude"
+	},
+	"alias": {
+	}
+}

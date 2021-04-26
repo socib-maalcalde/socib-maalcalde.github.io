@@ -1,0 +1,13 @@
+{
+    "classes": {
+    },
+	"properties": {
+        "vcard:address": "VCARD:street-address",
+        "vcard:country": "VCARD:country",
+        "vcard:locality": "VCARD:locality",
+        "vcard:postal_code": "VCARD:postal-code",
+        "vcard:region": "VCARD:region"
+	},
+	"alias": {
+	}
+}

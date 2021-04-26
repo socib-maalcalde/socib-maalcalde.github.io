@@ -1,0 +1,28 @@
+{
+	"classes": {
+	},
+	"properties": {
+		"relation:has_part":"DCT:hasPart", 
+        "relation:is_part_of":"DCT:isPartOf", 
+        "relation:conform_to":"DCT:conformsTo", 
+        "relation:is_format_of":"DCT:isFormatOf", 
+        "relation:has_format":"DCT:hasFormat", 
+        "relation:is_version_of":"DCT:isVersionOf", 
+        "relation:hash_version":"DCT:hasVersion", 
+        "relation:replaces":"DCT:replaces", 
+        "relation:is_replaces_by":"DCT:isReplacedBy", 
+        "relation:references":"DCT:references", 
+        "relation:is_reference_by":"DCT:isReferencedBy", 
+        "relation:require":"DCT:requires", 
+        "relation:is_required_by":"DCT:isRequiredBy",
+        "relation:was_derived_from":"PROV:wasDerivedFrom", 
+        "relation:was_influenced_by":"PROV:wasInfluencedBy", 
+        "relation:was_quoted_from":"PROV:wasQuotedFrom", 
+        "relation:was_revision_of":"PROV:wasRevisionOf", 
+        "relation:had_primary_source":"PROV:hadPrimarySource", 
+        "relation:alternate_of":"PROV:alternateOf", 
+		"relation:specialization_of":"PROV:specializationOf"
+	},
+	"alias": {
+	}
+}
