@@ -2,11 +2,11 @@
     "classes": {
     },
 	"properties": {
-        "vcard:address": "VCARD:street-address",
-        "vcard:country": "VCARD:country",
-        "vcard:locality": "VCARD:locality",
-        "vcard:postal_code": "VCARD:postal-code",
-        "vcard:region": "VCARD:region"
+        "address": "VCARD:street-address",
+        "country": "VCARD:country",
+        "locality": "VCARD:locality",
+        "postal_code": "VCARD:postal-code",
+        "region": "VCARD:region"
 	},
 	"alias": {
 	}

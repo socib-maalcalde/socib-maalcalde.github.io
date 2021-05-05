@@ -2,10 +2,10 @@
     "classes": {
     },
 	"properties": {
-        "service:servicetype": "SCHEMA:serviceType",
-        "service:termsofservice": "SCHEMA:termsOfService",
-        "service:software": "DCT:requires",
-        "service:project": "PROV:wasGeneratedBy"
+        "servicetype": "SCHEMA:serviceType",
+        "termsofservice": "SCHEMA:termsOfService",
+        "software": "DCT:requires",
+        "project": "PROV:wasGeneratedBy"
 	},
 	"alias": {
 	}

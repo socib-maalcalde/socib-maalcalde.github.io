@@ -1,32 +1,22 @@
 {
     "classes": {
-        "dataset:frequency": "DCT:Frequency",
-        "dataset:service": "DCAT:DataService"
+        "frequency": "DCT:Frequency",
+        "service": "DCAT:DataService"
     },
 	"properties": {
-        "catalog:catalog": "DCAT:catalog",
-        "catalog:dataset": "DCAT:dataset",
-        "catalog:service": "DCAT:service",
-        "catalog:theme": "DCAT:themeTaxonomy",
-        "catalog:url": "FOAF:homepage",
-        "catalog:project": "PROV:wasGeneratedBy",
-
-        "dataset:accessible": "DCT:type",
-        "dataset:dataset_id": "DCT:identifier",
-        "dataset:distribution": "DCAT:distribution",
-        "dataset:feature_type": "DCT:type",
-        "dataset:frequency": "DCT:accrualPeriodicity",
-        "dataset:institution": "SCHEMA:name",
-        "dataset:landing_page": "DCAT:landingPage",
-        "dataset:project": "PROV:wasGeneratedBy",
-        "dataset:resolution": "DCAT:temporalResolution",
-        "dataset:summary": "DCT:description",
-        "dataset:theme": "DCAT:theme",
-        "dataset:user": "PROV:wasUsedBy",
-        "dataset:processing_level": "EJERICO:processingLevel",
-        
-        "dataset:service": "DCAT:distribution",
-        "distribution:mimetype": "DCAT:mediaType",
-        "distribution:bytesize": "DCAT:byteSize"
+        "accessible": "DCT:type",
+        "dataset_id": "DCT:identifier",
+        "distribution": "DCAT:distribution",
+        "feature_type": "DCT:type",
+        "frequency": "DCT:accrualPeriodicity",
+        "institution": "SCHEMA:name",
+        "landing_page": "DCAT:landingPage",
+        "project": "PROV:wasGeneratedBy",
+        "resolution": "DCAT:temporalResolution",
+        "summary": "DCT:description",
+        "theme": "DCAT:theme",
+        "user": "PROV:wasUsedBy",
+        "processing_level": "EJERICO:processingLevel",
+        "service": "DCAT:distribution"
 	}
 }

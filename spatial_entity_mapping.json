@@ -3,15 +3,15 @@
 	},
 	"properties": {
 		"responsible": "PROV:wasAssociatedWith",
-		"spatial:geometry": "LOCN:geometry",
-		"spatial:name": "LOCN:geographicName",
-		"spatial:address": "LOCN:Address",
-		"spatial:max_latitude": "EJERICO:maxLatitude",
-        "spatial:max_longitude": "EJERICO:maxLongitude",
-        "spatial:min_latitude": "EJERICO:minLatitude",
-        "spatial:min_longitude": "EJERICO:maxLongitude",
-        "spatial:unit_latitude": "EJERICO:unitLatitude",
-        "spatial:unit_longitude": "EJERICO:unitLongitude"
+		"geometry": "LOCN:geometry",
+		"name": "LOCN:geographicName",
+		"address": "LOCN:Address",
+		"max_latitude": "EJERICO:maxLatitude",
+        "max_longitude": "EJERICO:maxLongitude",
+        "min_latitude": "EJERICO:minLatitude",
+        "min_longitude": "EJERICO:maxLongitude",
+        "unit_latitude": "EJERICO:unitLatitude",
+        "unit_longitude": "EJERICO:unitLongitude"
 	},
 	"alias": {
 	}

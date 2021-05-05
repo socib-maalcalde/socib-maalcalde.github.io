@@ -3,8 +3,8 @@
 	},
 	"properties": {
 
-		"temporal:end_date": "SCHEMA:endDate",
-		"temporal:start_date": "SCHEMA:startDate"
+		"end_date": "SCHEMA:endDate",
+		"start_date": "SCHEMA:startDate"
 	},
 	"alias": {
 	}
