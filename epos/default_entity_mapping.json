@@ -51,7 +51,7 @@
 		"sensor": "EJERICO:hasSensor",
 		"service": "EJERICO:hasService",
 		"software": "PROV:wasDerivedFrom",
-		"softwaresource": "EJERICO:hasSoftwareSource-",
+		"softwaresource": "EJERICO:hasSoftwareSource",
 		"temporal": "DCT:temporal",
 		"variable": "EJERICO:hasVariable",
 		"vcard": "EJERICO:hasVcard",
