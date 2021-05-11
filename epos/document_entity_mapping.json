@@ -6,7 +6,8 @@
 		"catalog": "EJERICO:catalog",
 		"citation": "EJERICO:citation",
 		"contributor": "EJERICO:contributor",
-		"type": "EJERICO:kind"	
+		"type": "EJERICO:kind",
+		"volume": "SCHEMA:volumeNumber"	
 	},
 	"alias": {
 	}
