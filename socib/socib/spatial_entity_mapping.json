@@ -1,0 +1,18 @@
+{
+	"classes": {
+	},
+	"properties": {
+		"responsible": "PROV:wasAssociatedWith",
+		"geometry": "LOCN:geometry",
+		"name": "LOCN:geographicName",
+		"address": "LOCN:Address",
+		"max_latitude": "EPOS:maxLatitude",
+        "max_longitude": "EPOS:maxLongitude",
+        "min_latitude": "EPOS:minLatitude",
+        "min_longitude": "EPOS:maxLongitude",
+        "unit_latitude": "EPOS:unitLatitude",
+        "unit_longitude": "EPOS:unitLongitude"
+	},
+	"alias": {
+	}
+}
