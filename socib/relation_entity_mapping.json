@@ -21,7 +21,7 @@
         "was_revision_of":"PROV:wasRevisionOf", 
         "had_primary_source":"PROV:hadPrimarySource", 
         "alternate_of":"PROV:alternateOf", 
-	    "specialization_of":"PROV:specializationOf"
+	"specialization_of":"PROV:specializationOf"
 	},
 	"alias": {
 	}

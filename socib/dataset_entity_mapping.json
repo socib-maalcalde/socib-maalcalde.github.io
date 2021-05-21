@@ -16,7 +16,7 @@
         "summary": "DCT:description",
         "theme": "DCAT:theme",
         "user": "PROV:wasUsedBy",
-        "processing_level": "EPOS:processingLevel",
+        "processing_level": "SOCIB:processingLevel",
         "service": "DCAT:distribution"
 	}
 }
