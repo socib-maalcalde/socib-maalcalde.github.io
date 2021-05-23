@@ -5,10 +5,10 @@
     },
 	"properties": {
         "accessible": "DCT:type",
+        "accrual_periodicity": "DCT:accrualPeriodicity",
         "dataset_id": "DCT:identifier",
         "distribution": "DCAT:distribution",
-        "feature_type": "DCT:type",
-        "frequency": "DCT:accrualPeriodicity",
+        "feature_type": "DCT:type",        
         "institution": "SCHEMA:name",
         "landing_page": "DCAT:landingPage",
         "project": "PROV:wasGeneratedBy",
