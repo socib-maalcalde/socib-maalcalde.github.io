@@ -121,7 +121,8 @@
 		"title": "DCT:title",
 		"type": "DCT:type",	
 		"updated": "DCT:modified",
-		"url": "SCHEMA:url"
+		"url": "SCHEMA:url",
+		"version": "DCT:hasVersion"
 	},
 	"alias": {
 		"identifier": "id",
