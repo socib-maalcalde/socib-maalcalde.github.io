@@ -83,6 +83,7 @@
 		"id": "DCT:identifier",
 		"is_jerico": "EPOS:isJerico",
 		"issn": "SCHEMA:issn",
+		"issued": "DCT:issued",
 		"keywords": "SCHEMA:keywords",
 		"knows": "FOAF:knows",
 		"label": "RDFS:label",
