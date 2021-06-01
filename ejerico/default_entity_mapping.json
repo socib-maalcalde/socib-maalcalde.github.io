@@ -85,6 +85,7 @@
 		"is_jerico": "EJERICO:isJerico",
 		"issn": "SCHEMA:issn",
 		"issued": "DCT:issued",
+		"harverted_source": "EJERICO:source",
 		"keywords": "SCHEMA:keywords",
 		"knows": "FOAF:knows",
 		"label": "RDFS:label",
