@@ -6,7 +6,9 @@
         "servicetype": "SCHEMA:serviceType",
         "termsofservice": "SCHEMA:termsOfService",
         "software": "DCT:requires",
-        "project": "PROV:wasGeneratedBy"
+        "project": "PROV:wasGeneratedBy",
+        "name": "SCHEMA:legalName",
+        "url": "SCHEMA:logo"
 	},
 	"alias": {
 	}
