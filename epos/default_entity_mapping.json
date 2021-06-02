@@ -2,7 +2,7 @@
 	"classes": {
 		"api": "HYDRA:APIDocumentation",
 		"apioperation": "HYDRA:Operation",
-		"address": "LOCN:Address",
+		"address": "SCHEMA:PostalAddress",
 		"catalog": "DCAT:Catalog",
 		"concept": "SKOS:Concept",
 		"conceptscheme": "SKOS:ConceptScheme",
@@ -31,7 +31,7 @@
 	"properties": {
 		"api": "EPOS:hasApi",
 		"apioperation": "EPOS:hasApiOperation",
-		"address": "EPOS:hasAddress",
+		"address": "SCHEMA:address",
 		"catalog": "EPOS:hasCatalog",
 		"concept": "DCT:subject",
 		"conceptscheme": "EPOS:hasConceptScheme",
