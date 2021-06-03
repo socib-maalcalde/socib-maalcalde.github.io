@@ -6,6 +6,8 @@
 		"geometry": "LOCN:geometry",
 		"name": "LOCN:geographicName",
 		"address": "LOCN:Address",
+		"latitude": "SCHEMA:latitude",
+		"longitude": "SCHEMA:longitude",
 		"max_latitude": "EPOS:maxLatitude",
         "max_longitude": "EPOS:maxLongitude",
         "min_latitude": "EPOS:minLatitude",
