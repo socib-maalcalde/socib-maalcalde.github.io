@@ -2,11 +2,10 @@
     "classes": {
     },
 	"properties": {
-        "street_address": "SCHEMA:streetAddress",
-        "locality": "SCHEMA:addressLocality",
-        "postal_code": "SCHEMA:postalCode",
-        "country": "SCHEMA:addressCountry",
-        "region": "SCHEMA:regionAddress"
+        "servicetype": "SCHEMA:serviceType",
+        "termsofservice": "SCHEMA:termsOfService",
+        "software": "DCT:requires",
+        "project": "PROV:wasGeneratedBy"
 	},
 	"alias": {
 	}
