@@ -6,14 +6,12 @@
 		"geometry": "LOCN:geometry",
 		"name": "LOCN:geographicName",
 		"address": "LOCN:Address",
-		"latitude": "SCHEMA:latitude",
-		"longitude": "SCHEMA:longitude",
-		"max_latitude": "EJERICO:maxLatitude",
-        "max_longitude": "EJERICO:maxLongitude",
-        "min_latitude": "EJERICO:minLatitude",
-        "min_longitude": "EJERICO:maxLongitude",
-        "unit_latitude": "EJERICO:unitLatitude",
-        "unit_longitude": "EJERICO:unitLongitude"
+		"max_latitude": "SOCIB:maxLatitude",
+        "max_longitude": "SOCIB:maxLongitude",
+        "min_latitude": "SOCIB:minLatitude",
+        "min_longitude": "SOCIB:maxLongitude",
+        "unit_latitude": "SOCIB:unitLatitude",
+        "unit_longitude": "SOCIB:unitLongitude"
 	},
 	"alias": {
 	}
