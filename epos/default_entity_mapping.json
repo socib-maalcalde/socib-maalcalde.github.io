@@ -54,7 +54,7 @@
 		"softwaresource": "EPOS:hasSoftwareSource",
 		"temporal": "DCT:temporal",
 		"variable": "EPOS:hasVariable",
-		"vcard": "EPOS:hasVcard",
+		"vcard": "SCHEMA:contactPoint",
 		"webservice": "EPOS:hasWebService",
 		
 		"abstract": "EPOS:abstract",

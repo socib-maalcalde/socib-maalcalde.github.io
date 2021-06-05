@@ -8,7 +8,7 @@
         "software": "DCT:requires",
         "project": "PROV:wasGeneratedBy",
         "name": "SCHEMA:legalName",
-        "url": "SCHEMA:logo"
+        "url": "SCHEMA:url"
 	},
 	"alias": {
 	}
