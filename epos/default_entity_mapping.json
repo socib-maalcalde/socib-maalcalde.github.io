@@ -77,7 +77,7 @@
 		"end_date": "SCHEMA:endDate",
 		"equipmenttype": "EPOS:equipmentType",
 		"email": "SCHEMA:email",
-		"familyName": "SCHEMA:familyName",
+		"familyname": "SCHEMA:familyName",
 		"filter": "EPOS:filter",
 		"format": "SCHEMA:format",
 		"givenName": "SCHEMA:givenName",
