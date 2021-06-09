@@ -117,6 +117,7 @@
 		"serial": "SCHEMA:serialNumber",
 		"size": "SCHEMA:size",
 		"start_date": "SCHEMA:startDate",
+		"source": "SOCIB:source",
 		"rigths": "DCT:rights",
 		"theme": "DCAT:themeTaxonomy",
 		"title": "DCT:title",

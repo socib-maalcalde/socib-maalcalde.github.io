@@ -23,6 +23,7 @@
 		"service": "SCHEMA:Service",
 		"software": "SCHEMA:SoftwareApplication",
 		"softwaresource": "SCHEMA:SoftwareSource",
+		"source": "EPOS:source",
 		"temporal": "DCT:PeriodOfTime",
 		"vcard": "VCARD:Address",
 		"variable": "SCHEMA:PropertyValue",
