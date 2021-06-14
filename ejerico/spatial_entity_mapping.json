@@ -12,6 +12,7 @@
         "max_longitude": "EJERICO:maxLongitude",
         "min_latitude": "EJERICO:minLatitude",
         "min_longitude": "EJERICO:maxLongitude",
+		"reference_system": "LOCN:csr",
         "unit_latitude": "EJERICO:unitLatitude",
         "unit_longitude": "EJERICO:unitLongitude"
 	},
