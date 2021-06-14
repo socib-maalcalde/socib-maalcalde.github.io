@@ -71,7 +71,6 @@
 		"created": "DCT:created",
 		"creator": "DCT:creator",
 		"default_value": "SCHEMA:defaultValue",
-		"description": "DCT:description",
 		"DOI": "EPOS:DOI",
 		"downloadurl": "DCAT:downloadURL",
 		"editor": "SCHEMA:editor",
