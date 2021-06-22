@@ -116,6 +116,7 @@
 		"range": "SOCIB:range",
 		"resolution": "SOCIB:resolution",
 		"responsible": "PROV:wasAssociatedWith",
+		"search_terms": "SOCIB:searchTerms",
 		"serial": "SCHEMA:serialNumber",
 		"size": "SCHEMA:size",
 		"start_date": "SCHEMA:startDate",

@@ -117,6 +117,7 @@
 		"resolution": "EJERICO:resolution",
 		"responsible": "PROV:wasAssociatedWith",
 		"serial": "SCHEMA:serialNumber",
+		"search_terms": "EJERICO:searchTerms",
 		"size": "SCHEMA:size",
 		"start_date": "SCHEMA:startDate",
 		"rigths": "DCT:rights",
