@@ -2,6 +2,8 @@
 	"classes": {
 		"api": "HYDRA:APIDocumentation",
 		"apioperation": "HYDRA:Operation",
+		"apioperationtemplate": "HYDRA:IriTemplate",
+		"apioperationtemplatemapping": "HYDRA:IriTemplateMapping",
 		"address": "LOCN:Address",
 		"catalog": "DCAT:Catalog",
 		"concept": "SKOS:Concept",
@@ -31,6 +33,8 @@
 	"properties": {
 		"api": "EJERICO:hasApi",
 		"apioperation": "EJERICO:hasApiOperation",
+		"apioperationtemplate": "EJERICO:hasApiOperationTemplate",
+		"apioperationtemplatemapping": "EJERICO:hasApiOperationTemplateMapping",
 		"address": "EJERICO:hasAddress",
 		"catalog": "EJERICO:hasCatalog",
 		"concept": "DCT:subject",
@@ -100,6 +104,7 @@
 		"modified": "DCT:modified",
 		"name": "SCHEMA:name",
 		"nationality": "SCHEMA:nationality",
+		"operation": "HYDRA:supportedOperation",
 		"owner": "PROV:wasAttributedTo",
 		"orientation": "EJERICO:orientation",
 		"page": "FOAF:page",

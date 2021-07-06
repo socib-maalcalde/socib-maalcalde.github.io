@@ -2,6 +2,8 @@
 	"classes": {
 		"api": "HYDRA:APIDocumentation",
 		"apioperation": "HYDRA:Operation",
+		"apioperationtemplate": "HYDRA:IriTemplate",
+		"apioperationtemplatemapping": "HYDRA:IriTemplateMapping",
 		"address": "SCHEMA:PostalAddress",
 		"catalog": "DCAT:Catalog",
 		"concept": "SKOS:Concept",
@@ -98,6 +100,7 @@
 		"modified": "DCT:modified",
 		"name": "SCHEMA:name",
 		"nationality": "SCHEMA:nationality",
+		"operation": "HYDRA:supportedOperation",
 		"owner": "PROV:wasAttributedTo",
 		"orientation": "EPOS:orientation",
 		"page": "FOAF:page",
