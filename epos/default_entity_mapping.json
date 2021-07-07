@@ -2,8 +2,6 @@
 	"classes": {
 		"api": "HYDRA:APIDocumentation",
 		"apioperation": "HYDRA:Operation",
-		"apioperationtemplate": "HYDRA:IriTemplate",
-		"apioperationtemplatemapping": "HYDRA:IriTemplateMapping",
 		"address": "SCHEMA:PostalAddress",
 		"catalog": "DCAT:Catalog",
 		"concept": "SKOS:Concept",
