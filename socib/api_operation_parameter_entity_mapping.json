@@ -1,10 +1,10 @@
 {
 	"classes": {},
 	"properties": {
-		"default_value": "SCHEMA:value",
+		"default_value": "HTTP:paramValue",
 		"max_value": "SCHEMA:maxValue",
 		"min_value": "SCHEMA:minValue",
-		"parameter": "HTTP:paramValue",
+		"parameter": "HTTP:paramName",
 		"range": "HYDRA:possibleValue",
 		"required": "HYDRA:required",
 		"value_pattern": "SCHEMA:pattern"
