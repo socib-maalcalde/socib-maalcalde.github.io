@@ -2,6 +2,7 @@
 	"classes": {
 		"api": "HYDRA:APIDocumentation",
 		"apioperation": "HYDRA:Operation",
+		"apioperationparameter": "HYDRA:IriTemplateMapping",
 		"address": "LOCN:Address",
 		"catalog": "DCAT:Catalog",
 		"concept": "SKOS:Concept",
@@ -26,10 +27,10 @@
 		"temporal": "DCT:PeriodOfTime",
 		"vcard": "VCARD:Address",
 		"variable": "SCHEMA:PropertyValue",
-		"webservice": "EJERICO:WebService"
+		"webservice": "SCHEMA:WebAPI"
 	},
 	"properties": {
-		"api": "EJERICO:hasApi",
+		"api": "HYDRA:apiDocumentation",
 		"apioperation": "EJERICO:hasApiOperation",
 		"address": "EJERICO:hasAddress",
 		"catalog": "EJERICO:hasCatalog",
@@ -100,7 +101,6 @@
 		"modified": "DCT:modified",
 		"name": "SCHEMA:name",
 		"nationality": "SCHEMA:nationality",
-		"operation": "HYDRA:supportedOperation",
 		"owner": "PROV:wasAttributedTo",
 		"orientation": "EJERICO:orientation",
 		"page": "FOAF:page",

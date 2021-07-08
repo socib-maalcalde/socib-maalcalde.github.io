@@ -2,6 +2,7 @@
 	"classes": {
 		"api": "HYDRA:APIDocumentation",
 		"apioperation": "HYDRA:Operation",
+		"apioperationparameter": "HYDRA:IriTemplateMapping",
 		"address": "LOCN:Address",
 		"catalog": "DCAT:Catalog",
 		"concept": "SKOS:Concept",
@@ -26,10 +27,10 @@
 		"temporal": "DCT:PeriodOfTime",
 		"vcard": "VCARD:Address",
 		"variable": "SCHEMA:PropertyValue",
-		"webservice": "SOCIB:WebService"
+		"webservice": "SCHEMA:WebAPI"
 	},
 	"properties": {
-		"api": "SOCIB:hasApi",
+		"api": "HYDRA:apiDocumentation",
 		"apioperation": "SOCIB:hasApiOperation",
 		"address": "SOCIB:hasAddress",
 		"catalog": "SOCIB:hasCatalog",
@@ -44,7 +45,7 @@
 		"facility":"SOCIB:hasFacility",
 		"organization": "SOCIB:hasOrganization",
 		"platform": "SOCIB:hasPlatform",
-		"program": "SCHEMA:memberOf",
+		"program": "SCHEMA:memmberOf",
 		"project": "SOCIB:hasProject",
 		"person": "SOCIB:hasPerson",
 		"relation": "DCT:relation",
@@ -100,7 +101,6 @@
 		"modified": "DCT:modified",
 		"name": "SCHEMA:name",
 		"nationality": "SCHEMA:nationality",
-		"operation": "HYDRA:supportedOperation",
 		"owner": "PROV:wasAttributedTo",
 		"orientation": "SOCIB:orientation",
 		"page": "FOAF:page",
@@ -117,8 +117,8 @@
 		"range": "SOCIB:range",
 		"resolution": "SOCIB:resolution",
 		"responsible": "PROV:wasAssociatedWith",
-		"search_terms": "SOCIB:searchTerms",
 		"serial": "SCHEMA:serialNumber",
+		"search_terms": "SOCIB:searchTerms",
 		"size": "SCHEMA:size",
 		"start_date": "SCHEMA:startDate",
 		"rigths": "DCT:rights",
