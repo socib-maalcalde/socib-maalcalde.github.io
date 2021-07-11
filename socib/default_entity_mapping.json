@@ -108,6 +108,7 @@
 		"parent": "SOCIB:memberOf",
 		"period": "SOCIB:samplePeriod",
 		"phone": "SCHEMA:telephone",
+		"produces": "SCHEMA:produces",
 		"processing_level": "SOCIB:processingLevel",
 		"provenance": "DCT:provenanceStatement",
 		"provider": "SCHEMA:provider",

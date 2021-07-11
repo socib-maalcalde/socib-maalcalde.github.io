@@ -108,6 +108,7 @@
 		"parent": "EJERICO:memberOf",
 		"period": "EJERICO:samplePeriod",
 		"phone": "SCHEMA:telephone",
+		"produces": "SCHEMA:produces",
 		"processing_level": "EJERICO:processingLevel",
 		"provenance": "DCT:provenanceStatement",
 		"provider": "SCHEMA:provider",
