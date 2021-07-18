@@ -15,6 +15,7 @@
 		"facility": "EPOS:Facility",
 		"organization": "SCHEMA:Organization",
 		"platform": "SOSA:Platform",
+		"program": "SCHEMA:ProgramMembership",
 		"project": "FOAF:Project",
 		"person": "FOAF:Person",
 		"relation": "DCAT:RelationShip",
