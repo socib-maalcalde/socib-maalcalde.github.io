@@ -89,6 +89,7 @@
 		"issn": "SCHEMA:issn",
 		"issued": "DCT:issued",
 		"harverted_source": "EJERICO:source",
+		"harverted_timestamp": "EJERICO:updated",
 		"keywords": "SCHEMA:keywords",
 		"knows": "FOAF:knows",
 		"label": "RDFS:label",

@@ -89,6 +89,7 @@
 		"issn": "SCHEMA:issn",
 		"issued": "DCT:issued",
 		"harverted_source": "SOCIB:source",
+		"harverted_timestamp": "SOCIB:updated",
 		"keywords": "SCHEMA:keywords",
 		"knows": "FOAF:knows",
 		"label": "RDFS:label",
