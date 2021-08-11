@@ -88,6 +88,7 @@
 		"id": "DCT:identifier",
 		"issn": "SCHEMA:issn",
 		"issued": "DCT:issued",
+		"harverted_hash": "SOCIB:hash",
 		"harverted_source": "SOCIB:source",
 		"harverted_timestamp": "SOCIB:updated",
 		"keywords": "SCHEMA:keywords",

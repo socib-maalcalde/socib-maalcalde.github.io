@@ -85,6 +85,7 @@
 		"id": "DCT:identifier",
 		"issn": "SCHEMA:issn",
 		"issued": "DCT:issued",
+		"harverted_hash": "EPOS:hash",
 		"harverted_source": "EPOS:source",
 		"harverted_timestamp": "EPOS:updated",
 		"keywords": "SCHEMA:keywords",

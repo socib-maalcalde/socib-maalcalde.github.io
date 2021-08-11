@@ -88,6 +88,7 @@
 		"id": "DCT:identifier",
 		"issn": "SCHEMA:issn",
 		"issued": "DCT:issued",
+		"harverted_hash": "EJERICO:hash",
 		"harverted_source": "EJERICO:source",
 		"harverted_timestamp": "EJERICO:updated",
 		"keywords": "SCHEMA:keywords",
