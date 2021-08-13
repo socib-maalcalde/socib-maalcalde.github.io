@@ -121,6 +121,7 @@
 		"start_date": "SCHEMA:startDate",
 		"source": "SOCIB:source",
 		"rigths": "DCT:rights",
+		"text_value": "SCHEMA:textValue",
 		"theme": "DCAT:themeTaxonomy",
 		"title": "DCT:title",
 		"type": "DCT:type",	
