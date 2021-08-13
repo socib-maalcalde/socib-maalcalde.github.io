@@ -7,7 +7,7 @@
 		"measurement_technique": "SCHEMA:measurentTechnique",
 		"min_value": "SCHEMA:minValue",
 		"name": "SCHEMA:name",
-        "propertyid": "SCHEMA:propertyID",
+        "propertyID": "SCHEMA:propertyID",
         "unit_code": "SCHEMA:unitCode",
         "unit_text": "SCHEMA:unitText",
         "value": "SCHEMA:value",

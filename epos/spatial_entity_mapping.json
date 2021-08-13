@@ -11,7 +11,7 @@
 		"max_latitude": "EPOS:maxLatitude",
         "max_longitude": "EPOS:maxLongitude",
         "min_latitude": "EPOS:minLatitude",
-        "min_longitude": "EPOS:maxLongitude",
+        "min_longitude": "EPOS:minLongitude",
         "unit_latitude": "EPOS:unitLatitude",
         "unit_longitude": "EPOS:unitLongitude"
 	},

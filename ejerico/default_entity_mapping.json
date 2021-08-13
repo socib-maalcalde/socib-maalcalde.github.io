@@ -2,6 +2,7 @@
 	"classes": {
 		"api": "HYDRA:APIDocumentation",
 		"apioperation": "HYDRA:Operation",
+		"apioperationparameter": "HYDRA:IriTemplateMapping",
 		"address": "LOCN:Address",
 		"catalog": "DCAT:Catalog",
 		"concept": "SKOS:Concept",
@@ -27,10 +28,10 @@
 		"temporal": "DCT:PeriodOfTime",
 		"vcard": "VCARD:Address",
 		"variable": "SCHEMA:PropertyValue",
-		"webservice": "EJERICO:WebService"
+		"webservice": "SCHEMA:WebAPI"
 	},
 	"properties": {
-		"api": "EJERICO:hasApi",
+		"api": "HYDRA:apiDocumentation",
 		"apioperation": "EJERICO:hasApiOperation",
 		"address": "EJERICO:hasAddress",
 		"catalog": "EJERICO:hasCatalog",
@@ -85,10 +86,11 @@
 		"format": "SCHEMA:format",
 		"givenName": "SCHEMA:givenName",
 		"id": "DCT:identifier",
-		"is_jerico": "EJERICO:isJerico",
 		"issn": "SCHEMA:issn",
 		"issued": "DCT:issued",
+		"harverted_hash": "EJERICO:hash",
 		"harverted_source": "EJERICO:source",
+		"harverted_timestamp": "EJERICO:updated",
 		"keywords": "SCHEMA:keywords",
 		"knows": "FOAF:knows",
 		"label": "RDFS:label",
@@ -106,9 +108,10 @@
 		"orientation": "EJERICO:orientation",
 		"page": "FOAF:page",
 		"pages": "SCHEMA:numberOfPage",
-		"parent": "SCHEMA:memberOf",
+		"parent": "EJERICO:memberOf",
 		"period": "EJERICO:samplePeriod",
 		"phone": "SCHEMA:telephone",
+		"produces": "SCHEMA:produces",
 		"processing_level": "EJERICO:processingLevel",
 		"provenance": "DCT:provenanceStatement",
 		"provider": "SCHEMA:provider",
@@ -119,10 +122,15 @@
 		"resolution": "EJERICO:resolution",
 		"responsible": "PROV:wasAssociatedWith",
 		"serial": "SCHEMA:serialNumber",
+		"search_terms": "EJERICO:searchTerms",
 		"size": "SCHEMA:size",
 		"start_date": "SCHEMA:startDate",
 		"rigths": "DCT:rights",
+<<<<<<< HEAD
 		"text_value": "SCHEMA:textValue",
+=======
+		"text": "SCHEMA:text",
+>>>>>>> 21ca665f121c45d46dc370bbab689344ad0cd4fb
 		"theme": "DCAT:themeTaxonomy",
 		"title": "DCT:title",
 		"type": "DCT:type",	
