@@ -126,11 +126,7 @@
 		"size": "SCHEMA:size",
 		"start_date": "SCHEMA:startDate",
 		"rigths": "DCT:rights",
-<<<<<<< HEAD
 		"text_value": "SCHEMA:textValue",
-=======
-		"text": "SCHEMA:text",
->>>>>>> 21ca665f121c45d46dc370bbab689344ad0cd4fb
 		"theme": "DCAT:themeTaxonomy",
 		"title": "DCT:title",
 		"type": "DCT:type",	
