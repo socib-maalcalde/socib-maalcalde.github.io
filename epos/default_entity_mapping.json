@@ -10,7 +10,7 @@
 		"dataset": "DCAT:Dataset",
 		"datasetvariable": "BODC:A05",
 		"distribution": "DCAT:Distribution",
-		"document": "SCHEMA:digitalDocument",
+		"document": "SCHEMA:DigitalDocument",
 		"equipment":"EPOS:Equipment",
 		"facility": "EPOS:Facility",
 		"organization": "SCHEMA:Organization",
