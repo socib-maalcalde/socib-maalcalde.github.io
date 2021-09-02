@@ -6,7 +6,7 @@
         "locality": "SCHEMA:addressLocality",
         "postal_code": "SCHEMA:postalCode",
         "country": "SCHEMA:addressCountry",
-        "region": "SCHEMA:regionAddress"
+        "region": "SCHEMA:addressRegion"
 	},
 	"alias": {
 	}
