@@ -4,7 +4,7 @@
 	"properties": {
 		"alternate_name": "SCHEMA:alternateName",
         "max_value": "SCHEMA:maxValue",
-		"measurement_technique": "SCHEMA:measurentTechnique",
+		"measurement_technique": "SCHEMA:measurementTechnique",
 		"min_value": "SCHEMA:minValue",
 		"name": "SCHEMA:name",
         "propertyID": "SCHEMA:propertyID",
