@@ -86,6 +86,7 @@
 		"format": "SCHEMA:fileFormat",
 		"givenName": "SCHEMA:givenName",
 		"id": "DCT:identifier",
+		"is_related_to": "SCHEMA:isRelatedTo",
 		"issn": "SCHEMA:issn",
 		"issued": "DCT:issued",
 		"harvested_hash": "EJERICO:hash",
