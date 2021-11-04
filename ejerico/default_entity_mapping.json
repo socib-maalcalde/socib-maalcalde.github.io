@@ -126,6 +126,7 @@
 		"search_terms": "EJERICO:searchTerms",
 		"size": "SCHEMA:size",
 		"source": "EJERICO:source",
+		"status": "SCHEMA:status",
 		"start_date": "SCHEMA:startDate",
 		"rigths": "DCT:rights",
 		"text_value": "SCHEMA:textValue",
@@ -134,7 +135,8 @@
 		"type": "DCT:type",	
 		"updated": "EJERICO:updated",
 		"url": "SCHEMA:url",
-		"version": "DCT:hasVersion"
+		"version": "DCT:hasVersion",
+		"visibility": "SCHEMA:hasDigitalDocumentPermission"
 	},
 	"alias": {
 		"identifier": "id",

@@ -126,6 +126,7 @@
 		"search_terms": "SOCIB:searchTerms",
 		"size": "SCHEMA:size",
 		"start_date": "SCHEMA:startDate",
+		"status": "SCHEMA:status",
 		"source": "SOCIB:source",
 		"rigths": "DCT:rights",
 		"text_value": "SCHEMA:textValue",
@@ -134,7 +135,8 @@
 		"type": "DCT:type",	
 		"updated": "SOCIB:updated",
 		"url": "SCHEMA:url",
-		"version": "DCT:hasVersion"
+		"version": "DCT:hasVersion",
+		"visibility": "SCHEMA:hasDigitalDocumentPermission"
 	},
 	"alias": {
 		"identifier": "id",

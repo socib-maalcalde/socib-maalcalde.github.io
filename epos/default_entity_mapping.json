@@ -122,6 +122,7 @@
 		"serial": "SCHEMA:serialNumber",
 		"size": "SCHEMA:size",
 		"source": "EPOS:source",
+		"status": "SCHEMA:status",
 		"start_date": "SCHEMA:startDate",
 		"rigths": "DCT:rights",
 		"text_value": "SCHEMA:textValue",
@@ -130,7 +131,8 @@
 		"type": "DCT:type",	
 		"updated": "EPOS:updated",
 		"url": "SCHEMA:url",
-		"version": "DCT:hasVersion"
+		"version": "DCT:hasVersion",
+		"visibility": "SCHEMA:hasDigitalDocumentPermission"
 	},
 	"alias": {
 		"identifier": "id",
