@@ -1,1 +1,21 @@
+<<<<<<< HEAD
 {"classes": {}, "properties": {"abstract": "EJERICO:abstract", "audience": "SCHEMA:audience", "catalog": "EJERICO:catalog", "citation": "EJERICO:citation", "contributor": "EJERICO:contributor", "type": "EJERICO:kind", "volume": "SCHEMA:volumeNumber"}, "alias": {}}
+=======
+{
+    "classes": {
+    },
+	"properties": {
+		"abstract": "EJERICO:abstract",
+		"audience": "SCHEMA:audience",
+		"catalog": "EJERICO:catalog",
+		"citation": "EJERICO:citation",
+		"contributor": "EJERICO:contributor",
+		"type": "EJERICO:kind",
+		"volume": "SCHEMA:volumeNumber"	
+	},
+	"alias": {
+	}
+}
+
+
+>>>>>>> d538ef9e84754da0f627b5720f17b0263c179413

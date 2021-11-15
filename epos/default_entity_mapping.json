@@ -134,5 +134,12 @@
 		"url": "SCHEMA:url",
 		"version": "DCT:hasVersion",
 		"visibility": "SCHEMA:hasDigitalDocumentPermission"
+<<<<<<< HEAD
+=======
+	},
+	"alias": {
+		"identifier": "id",
+		"propertyvalue": "variable"
+>>>>>>> d538ef9e84754da0f627b5720f17b0263c179413
 	}
 }
