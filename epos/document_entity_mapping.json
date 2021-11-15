@@ -3,6 +3,7 @@
     },
 	"properties": {
 		"abstract": "EPOS:abstract",
+		"audience": "SCHEMA:audience",
 		"catalog": "EPOS:catalog",
 		"citation": "EPOS:citation",
 		"contributor": "EPOS:contributor",

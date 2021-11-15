@@ -3,7 +3,7 @@
         "frequency": "DCT:Frequency",
         "service": "DCAT:DataService"
     },
-	"properties": {
+    "properties": {
         "accessible": "DCT:type",
         "accrual_periodicity": "DCT:accrualPeriodicity",
         "dataset_id": "DCT:identifier",
@@ -17,6 +17,6 @@
         "theme": "DCAT:theme",
         "user": "PROV:wasUsedBy",
         "processing_level": "EJERICO:processingLevel",
-        "service": "DCAT:distribution"
-	}
+        "service": "DCAT:service"
+    }
 }

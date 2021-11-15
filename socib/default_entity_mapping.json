@@ -86,6 +86,7 @@
 		"format": "SCHEMA:fileFormat",
 		"givenName": "SCHEMA:givenName",
 		"id": "DCT:identifier",
+		"identifier": "SCHEMA:identifier",
 		"is_related_to": "SCHEMA:isRelatedTo",
 		"issn": "SCHEMA:issn",
 		"issued": "DCT:issued",
@@ -126,6 +127,7 @@
 		"search_terms": "SOCIB:searchTerms",
 		"size": "SCHEMA:size",
 		"start_date": "SCHEMA:startDate",
+		"status": "SCHEMA:status",
 		"source": "SOCIB:source",
 		"rigths": "DCT:rights",
 		"text_value": "SCHEMA:textValue",
@@ -134,10 +136,7 @@
 		"type": "DCT:type",	
 		"updated": "SOCIB:updated",
 		"url": "SCHEMA:url",
-		"version": "DCT:hasVersion"
-	},
-	"alias": {
-		"identifier": "id",
-		"propertyvalue": "variable"
+		"version": "DCT:hasVersion",
+		"visibility": "SCHEMA:hasDigitalDocumentPermission"
 	}
 }

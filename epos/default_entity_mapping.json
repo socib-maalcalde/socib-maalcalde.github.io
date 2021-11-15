@@ -83,6 +83,7 @@
 		"format": "SCHEMA:fileFormat",
 		"givenName": "SCHEMA:givenName",
 		"id": "DCT:identifier",
+		"identifier": "SCHEMA:identifier",
 		"is_related_to": "SCHEMA:isRelatedTo",
 		"issn": "SCHEMA:issn",
 		"issued": "DCT:issued",
@@ -122,6 +123,7 @@
 		"serial": "SCHEMA:serialNumber",
 		"size": "SCHEMA:size",
 		"source": "EPOS:source",
+		"status": "SCHEMA:status",
 		"start_date": "SCHEMA:startDate",
 		"rigths": "DCT:rights",
 		"text_value": "SCHEMA:textValue",
@@ -130,10 +132,7 @@
 		"type": "DCT:type",	
 		"updated": "EPOS:updated",
 		"url": "SCHEMA:url",
-		"version": "DCT:hasVersion"
-	},
-	"alias": {
-		"identifier": "id",
-		"propertyvalue": "variable"
+		"version": "DCT:hasVersion",
+		"visibility": "SCHEMA:hasDigitalDocumentPermission"
 	}
 }
